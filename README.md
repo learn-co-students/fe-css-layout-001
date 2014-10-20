@@ -5,7 +5,7 @@ type: lecture
 resources: 0
 ---
 
-## Page Layout ~ 58min
+## CSS Page Layout ~ 58min
 
 These videos are also available as a single [continuous playlist from the link here](https://www.youtube.com/watch?v=tBSxuNfgRHc&list=PLj148bJp5wixpaK_XI-LXIPF6BxQ5Ycyx)
 
