@@ -1,9 +1,4 @@
----
-language: css
-tags: css, layout, positioning, float, box model
-type: lecture
-resources: 0
----
+
 
 ## CSS Page Layout ~ 58min
 
